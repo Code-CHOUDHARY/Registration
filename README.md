@@ -5,7 +5,7 @@
 - JSP - 2.2 +
 - IDE - STS/Eclipse Neon.3
 - JDK - 1.8 or later
-- Apache Tomcat - 8.5
+- Apache Tomcat - 9
 - JSTL - 1.2.1
 - Servlet API - 2.5
 - MySQL - mysql-connector-java-8.0.13.jar
